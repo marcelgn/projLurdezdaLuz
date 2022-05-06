@@ -1,4 +1,4 @@
 # LurdezdaLuz
 Site da Lurdez da Luz.
 
-# Estou desenvolvendo o site artisttico da cantora e compositora Lurdez da Luz, ou Luana Gomes Dias.
+# Estou desenvolvendo o site artistico da cantora e compositora Lurdez da Luz, ou nome social, Luana Gomes Dias.
